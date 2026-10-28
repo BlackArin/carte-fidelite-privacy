@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kundenkarten</string>
+    <string name="my_cards">Meine Karten</string>
+    <string name="subtitle">Alle Ihre Kundenkarten an einem Ort</string>
+    <string name="change_order">Reihenfolge ändern</string>
+    <string name="change_view">Ansicht ändern</string>
+    <string name="change_language">Sprache ändern</string>
+    <string name="choose_language">Sprache wählen</string>
+    <string name="new_card">Neue Karte</string>
+    <string name="no_cards">Noch keine Karten</string>
+    <string name="tap_new_card">Tippen Sie auf „Neue Karte“</string>
+    <string name="move_before">Zurück</string>
+    <string name="move_after">Weiter</string>
+    <string name="choose_image">Bild auswählen</string>
+    <string name="searching">Suche im Internet…</string>
+    <string name="no_image_found">Kein Bild für „%1$s“ gefunden.</string>
+    <string name="touch_image">Tippen Sie auf das Bild, das für die Karte verwendet werden soll.</string>
+    <string name="keep_image">Aktuelles Bild behalten</string>
+    <string name="rename_card">Karte umbenennen</string>
+    <string name="name">Name</string>
+    <string name="save">Speichern</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="change_card_image">Kartenbild ändern</string>
+    <string name="delete_card">Karte löschen</string>
+    <string name="shop">Geschäft</string>
+    <string name="scan_card">Karte / Barcode / QR scannen</string>
+    <string name="pick_code_image">Bild auswählen (Barcode / QR)</string>
+    <string name="barcode_auto">Barcode (automatisch, wenn leer)</string>
+    <string name="auto_image_hint">Das Bild wird automatisch anhand des Geschäftsnamens gefunden.</string>
+    <string name="create">Erstellen</string>
+    <string name="err_no_code">Kein Code im Bild gefunden</string>
+    <string name="err_unreadable_image">Bild nicht lesbar</string>
+    <string name="err_unreadable_code">Code nicht lesbar</string>
+    <string name="err_scan_failed">Scan nicht möglich</string>
+</resources>

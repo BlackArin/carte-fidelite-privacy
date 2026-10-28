@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cartões de fidelidade</string>
+    <string name="my_cards">Meus cartões</string>
+    <string name="subtitle">Todos os seus cartões de fidelidade num só lugar</string>
+    <string name="change_order">Alterar a ordem</string>
+    <string name="change_view">Alterar a vista</string>
+    <string name="change_language">Alterar o idioma</string>
+    <string name="choose_language">Escolher o idioma</string>
+    <string name="new_card">Novo cartão</string>
+    <string name="no_cards">Ainda não há cartões</string>
+    <string name="tap_new_card">Toque em «Novo cartão»</string>
+    <string name="move_before">Anterior</string>
+    <string name="move_after">Seguinte</string>
+    <string name="choose_image">Escolher imagem</string>
+    <string name="searching">A pesquisar na Internet…</string>
+    <string name="no_image_found">Nenhuma imagem encontrada para «%1$s».</string>
+    <string name="touch_image">Toque na imagem a usar para o cartão.</string>
+    <string name="keep_image">Manter a imagem atual</string>
+    <string name="rename_card">Renomear o cartão</string>
+    <string name="name">Nome</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="change_card_image">Alterar a imagem do cartão</string>
+    <string name="delete_card">Eliminar o cartão</string>
+    <string name="shop">Loja</string>
+    <string name="scan_card">Digitalizar cartão / código de barras / QR</string>
+    <string name="pick_code_image">Escolher uma imagem (código de barras / QR)</string>
+    <string name="barcode_auto">Código de barras (auto se vazio)</string>
+    <string name="auto_image_hint">A imagem é encontrada automaticamente a partir do nome da loja.</string>
+    <string name="create">Criar</string>
+    <string name="err_no_code">Nenhum código encontrado na imagem</string>
+    <string name="err_unreadable_image">Imagem ilegível</string>
+    <string name="err_unreadable_code">Código ilegível</string>
+    <string name="err_scan_failed">Falha na digitalização</string>
+</resources>

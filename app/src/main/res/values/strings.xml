@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Loyalty Cards</string>
+    <string name="my_cards">My cards</string>
+    <string name="subtitle">All your loyalty cards in one place</string>
+    <string name="change_order">Change order</string>
+    <string name="change_view">Change view</string>
+    <string name="change_language">Change language</string>
+    <string name="choose_language">Choose language</string>
+    <string name="new_card">New card</string>
+    <string name="no_cards">No cards yet</string>
+    <string name="tap_new_card">Tap \"New card\"</string>
+    <string name="move_before">Previous</string>
+    <string name="move_after">Next</string>
+    <string name="choose_image">Choose image</string>
+    <string name="searching">Searching the Internet…</string>
+    <string name="no_image_found">No image found for \"%1$s\".</string>
+    <string name="touch_image">Tap the image to use for the card.</string>
+    <string name="keep_image">Keep current image</string>
+    <string name="rename_card">Rename card</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="change_card_image">Change card image</string>
+    <string name="delete_card">Delete card</string>
+    <string name="shop">Store</string>
+    <string name="scan_card">Scan a card / barcode / QR</string>
+    <string name="pick_code_image">Choose an image (barcode / QR)</string>
+    <string name="barcode_auto">Barcode (auto if empty)</string>
+    <string name="auto_image_hint">The image is found automatically from the store name.</string>
+    <string name="create">Create</string>
+    <string name="err_no_code">No code found in the image</string>
+    <string name="err_unreadable_image">Unreadable image</string>
+    <string name="err_unreadable_code">Unreadable code</string>
+    <string name="err_scan_failed">Scan failed</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carte Fidélité</string>
+    <string name="my_cards">Mes cartes</string>
+    <string name="subtitle">Toutes vos cartes de fidélité au même endroit</string>
+    <string name="change_order">Changer l\'ordre</string>
+    <string name="change_view">Changer la vue</string>
+    <string name="change_language">Changer la langue</string>
+    <string name="choose_language">Choisir la langue</string>
+    <string name="new_card">Nouvelle carte</string>
+    <string name="no_cards">Aucune carte pour l\'instant</string>
+    <string name="tap_new_card">Appuyez sur « Nouvelle carte »</string>
+    <string name="move_before">Avant</string>
+    <string name="move_after">Après</string>
+    <string name="choose_image">Choisir l\'image</string>
+    <string name="searching">Recherche sur Internet…</string>
+    <string name="no_image_found">Aucune image trouvée pour « %1$s ».</string>
+    <string name="touch_image">Touchez l\'image à utiliser pour la carte.</string>
+    <string name="keep_image">Garder l\'image actuelle</string>
+    <string name="rename_card">Renommer la carte</string>
+    <string name="name">Nom</string>
+    <string name="save">Enregistrer</string>
+    <string name="cancel">Annuler</string>
+    <string name="change_card_image">Changer l\'image de la carte</string>
+    <string name="delete_card">Supprimer la carte</string>
+    <string name="shop">Magasin</string>
+    <string name="scan_card">Scanner une carte / code-barres / QR</string>
+    <string name="pick_code_image">Choisir une image (code-barres / QR)</string>
+    <string name="barcode_auto">Code-barres (auto si vide)</string>
+    <string name="auto_image_hint">L\'image est trouvée automatiquement d\'après le nom du magasin.</string>
+    <string name="create">Créer</string>
+    <string name="err_no_code">Aucun code trouvé dans l\'image</string>
+    <string name="err_unreadable_image">Image illisible</string>
+    <string name="err_unreadable_code">Code illisible</string>
+    <string name="err_scan_failed">Scan impossible</string>
+</resources>

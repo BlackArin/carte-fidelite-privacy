@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tarjetas de fidelidad</string>
+    <string name="my_cards">Mis tarjetas</string>
+    <string name="subtitle">Todas tus tarjetas de fidelidad en un solo lugar</string>
+    <string name="change_order">Cambiar el orden</string>
+    <string name="change_view">Cambiar la vista</string>
+    <string name="change_language">Cambiar el idioma</string>
+    <string name="choose_language">Elegir idioma</string>
+    <string name="new_card">Nueva tarjeta</string>
+    <string name="no_cards">Aún no hay tarjetas</string>
+    <string name="tap_new_card">Pulsa «Nueva tarjeta»</string>
+    <string name="move_before">Anterior</string>
+    <string name="move_after">Siguiente</string>
+    <string name="choose_image">Elegir imagen</string>
+    <string name="searching">Buscando en Internet…</string>
+    <string name="no_image_found">No se encontró ninguna imagen para «%1$s».</string>
+    <string name="touch_image">Toca la imagen que quieras usar para la tarjeta.</string>
+    <string name="keep_image">Mantener la imagen actual</string>
+    <string name="rename_card">Renombrar la tarjeta</string>
+    <string name="name">Nombre</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="change_card_image">Cambiar la imagen de la tarjeta</string>
+    <string name="delete_card">Eliminar la tarjeta</string>
+    <string name="shop">Tienda</string>
+    <string name="scan_card">Escanear tarjeta / código de barras / QR</string>
+    <string name="pick_code_image">Elegir una imagen (código de barras / QR)</string>
+    <string name="barcode_auto">Código de barras (auto si está vacío)</string>
+    <string name="auto_image_hint">La imagen se encuentra automáticamente a partir del nombre de la tienda.</string>
+    <string name="create">Crear</string>
+    <string name="err_no_code">No se encontró ningún código en la imagen</string>
+    <string name="err_unreadable_image">Imagen ilegible</string>
+    <string name="err_unreadable_code">Código ilegible</string>
+    <string name="err_scan_failed">No se pudo escanear</string>
+</resources>

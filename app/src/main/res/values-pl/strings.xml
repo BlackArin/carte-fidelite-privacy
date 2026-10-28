@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Karty lojalnościowe</string>
+    <string name="my_cards">Moje karty</string>
+    <string name="subtitle">Wszystkie Twoje karty lojalnościowe w jednym miejscu</string>
+    <string name="change_order">Zmień kolejność</string>
+    <string name="change_view">Zmień widok</string>
+    <string name="change_language">Zmień język</string>
+    <string name="choose_language">Wybierz język</string>
+    <string name="new_card">Nowa karta</string>
+    <string name="no_cards">Brak kart</string>
+    <string name="tap_new_card">Dotknij „Nowa karta”</string>
+    <string name="move_before">Wstecz</string>
+    <string name="move_after">Dalej</string>
+    <string name="choose_image">Wybierz obraz</string>
+    <string name="searching">Wyszukiwanie w Internecie…</string>
+    <string name="no_image_found">Nie znaleziono obrazu dla „%1$s”.</string>
+    <string name="touch_image">Dotknij obrazu, który ma być użyty na karcie.</string>
+    <string name="keep_image">Zachowaj obecny obraz</string>
+    <string name="rename_card">Zmień nazwę karty</string>
+    <string name="name">Nazwa</string>
+    <string name="save">Zapisz</string>
+    <string name="cancel">Anuluj</string>
+    <string name="change_card_image">Zmień obraz karty</string>
+    <string name="delete_card">Usuń kartę</string>
+    <string name="shop">Sklep</string>
+    <string name="scan_card">Skanuj kartę / kod kreskowy / QR</string>
+    <string name="pick_code_image">Wybierz obraz (kod kreskowy / QR)</string>
+    <string name="barcode_auto">Kod kreskowy (automatyczny, jeśli puste)</string>
+    <string name="auto_image_hint">Obraz jest znajdowany automatycznie na podstawie nazwy sklepu.</string>
+    <string name="create">Utwórz</string>
+    <string name="err_no_code">Nie znaleziono kodu na obrazie</string>
+    <string name="err_unreadable_image">Nieczytelny obraz</string>
+    <string name="err_unreadable_code">Nieczytelny kod</string>
+    <string name="err_scan_failed">Skanowanie nie powiodło się</string>
+</resources>

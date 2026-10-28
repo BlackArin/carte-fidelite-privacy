@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carte fedeltà</string>
+    <string name="my_cards">Le mie carte</string>
+    <string name="subtitle">Tutte le tue carte fedeltà in un unico posto</string>
+    <string name="change_order">Cambia ordine</string>
+    <string name="change_view">Cambia vista</string>
+    <string name="change_language">Cambia lingua</string>
+    <string name="choose_language">Scegli la lingua</string>
+    <string name="new_card">Nuova carta</string>
+    <string name="no_cards">Ancora nessuna carta</string>
+    <string name="tap_new_card">Tocca «Nuova carta»</string>
+    <string name="move_before">Prima</string>
+    <string name="move_after">Dopo</string>
+    <string name="choose_image">Scegli l\'immagine</string>
+    <string name="searching">Ricerca su Internet…</string>
+    <string name="no_image_found">Nessuna immagine trovata per «%1$s».</string>
+    <string name="touch_image">Tocca l\'immagine da usare per la carta.</string>
+    <string name="keep_image">Mantieni l\'immagine attuale</string>
+    <string name="rename_card">Rinomina la carta</string>
+    <string name="name">Nome</string>
+    <string name="save">Salva</string>
+    <string name="cancel">Annulla</string>
+    <string name="change_card_image">Cambia l\'immagine della carta</string>
+    <string name="delete_card">Elimina la carta</string>
+    <string name="shop">Negozio</string>
+    <string name="scan_card">Scansiona carta / codice a barre / QR</string>
+    <string name="pick_code_image">Scegli un\'immagine (codice a barre / QR)</string>
+    <string name="barcode_auto">Codice a barre (auto se vuoto)</string>
+    <string name="auto_image_hint">L\'immagine viene trovata automaticamente in base al nome del negozio.</string>
+    <string name="create">Crea</string>
+    <string name="err_no_code">Nessun codice trovato nell\'immagine</string>
+    <string name="err_unreadable_image">Immagine illeggibile</string>
+    <string name="err_unreadable_code">Codice illeggibile</string>
+    <string name="err_scan_failed">Scansione non riuscita</string>
+</resources>
