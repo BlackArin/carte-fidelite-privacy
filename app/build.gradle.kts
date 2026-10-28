@@ -13,8 +13,8 @@ android {
         applicationId = "com.cartefidelite"
         minSdk = 24
         targetSdk = 37
-        versionCode = 6
-        versionName = "1.05"
+        versionCode = 7
+        versionName = "1.06"
     }
 
     val keystoreProps = Properties().apply {

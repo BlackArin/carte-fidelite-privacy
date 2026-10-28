@@ -5,7 +5,7 @@
 **Catégorie :** Shopping (ou Outils)
 **Public cible :** 18 ans et plus / tout public, sans publicité ni achats intégrés
 **Prix :** Gratuit
-**Version :** 1.05 (code 6) — langue par défaut de la fiche : français (France)
+**Version :** 1.06 (code 7) — langue par défaut de la fiche : français (France)
 
 ## Formulaire « Sécurité des données »
 - Données collectées : aucune. Aucune donnée partagée.
@@ -14,7 +14,7 @@
 - Autorisations : Internet uniquement (la caméra est gérée par le scanner Google Play Services).
 
 ## Fichiers à envoyer
-- Bundle signé : `CarteFidelite.aab` (ou `versions/v1.05/CarteFidelite.aab`)
+- Bundle signé : `CarteFidelite.aab` (ou `versions/v1.06/CarteFidelite.aab`)
 - Icône 512×512 : `store/icon-512.png`
 - Image de présentation 1024×500 : `store/feature-graphic-1024x500.png`
 - Captures d'écran : `store/screenshot-1.png` (1080×2400). Google Play en exige au moins 2 : ajouter une 2e capture (par exemple le détail d'une carte avec son code-barres) avant l'envoi.
